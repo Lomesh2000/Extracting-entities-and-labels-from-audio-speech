@@ -1,4 +1,4 @@
-# Json file containing all the sentences and thier respective entities is mentioned above --- `new_result.json`
+# Json file containing all the sentences and thier respective entities is mentioned above --- `json file better view.json`
 # We will extract entities and their respective labels from speech 
 ## Here we have a audio file i.e. `sales_call_telephone_marketers.wav`
 ### Audio file is converted into text using following modules:
